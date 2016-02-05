@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    
+    
+  <color name="color_stroke_edit">#B6B7B9</color>
+  <color name="color_yellow">#FCDA5C</color>
+  <color name="color_yellow_light">#FFF8BC</color>
+    
+  <color name="color_stroke_button">#CECFD0</color>
+  <color name="gradient_button_start">#F2F2F2</color>
+  <color name="gradient_button_end">#ffffff</color>
+  
+  <color name="text_button_false">#BDBDBD</color>
+  <color name="text_button_true">#424242</color>
+  
+  <color name="gradient_main_start">#FBCB35</color>
+  <color name="gradient_main_end">#FFFAC1</color>
+  
+</resources>

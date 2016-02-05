@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MariaNilgaTest</string>
+   
+    <string name="hint_phone_number">+38 0XX XXX XX XX</string>
+    <string name="authorization">Авторизация</string>
+    <string name="input_phone_number">ВВЕДИТЕ НОМЕР ТЕЛЕФОНА</string>
+    <string name="get_code">Получить код</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="input_code">ВВЕДИТЕ КОД</string>
+    
+    <string name="system_send_sms">Сейчас система отправит на Ваш телефон смс-сообщение с кодом для авторизации</string>
+    
+    
+    <string name="ua">Украина +38</string>
+    <string name="ru">Россия +7</string>
+    <string name="us">CША +1</string>
+    
+    <string-array name="name_code">
+        <item>@string/ua</item>
+        <item>@string/ru</item>
+        <item>@string/us</item>
+    </string-array>
+    
+    <string-array name="code">
+        <item>+38</item>
+        <item>+7</item>
+        <item>+1</item>
+    </string-array>
+    
+    
+    
+</resources>
